@@ -81,19 +81,6 @@ User Portal: http://localhost:8080/
 
 Admin Panel: http://localhost:8080/admin
 
-## 📂 Project Structure
-ecommerce-app/
- ├── src/main/java/com/ecommerce
- │    ├── controller    # Web controllers
- │    ├── model         # Entity classes
- │    ├── repository    # JPA repositories
- │    ├── service       # Business logic
- │    └── EcommerceApplication.java
- ├── src/main/resources
- │    ├── templates     # Thymeleaf templates
- │    ├── static        # CSS, JS, Images
- │    └── application.properties
- ├── pom.xml            # Dependencies
 
 ## 🔒 Security
 
